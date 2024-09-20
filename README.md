@@ -11,7 +11,7 @@ Features:
     The homepage serves as a portfolio introduction, with an elegant design and information about the creator.
 
     Blog:
-    Contains articles discussing various topics related to information technology, including cybersecurity,            malware, and the role of IT in modern society.
+    Contains articles discussing various topics related to information technology, including cybersecurity, malware, and the role of IT in modern society.
 
     Image Galleries:
     The project features two galleries:
@@ -29,6 +29,8 @@ Technologies Used
 Image Sources
 
 The images used in the galleries are sourced from [Pixabay](https://pixabay.com/) , which provides free high-quality images. These images represent nature and animals, fitting with the overall theme of the project.
+
+
 How to Run the Project
 
 Clone the repository to your local machine:
