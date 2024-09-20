@@ -4,7 +4,8 @@ Portfolio project on Faculty of Science and Matematics UNSA
 This project was developed as part of a task at the Faculty of Science and Mathematics, University of Sarajevo. The goal of the project was to create a simple portfolio website that includes galleries, showcasing images of nature and animals.
 
 The website is built using only HTML and CSS, focusing on clean design and responsive layouts.
-Features
+
+Features:
 
     Homepage:
     The homepage serves as a portfolio introduction, with an elegant design and information about the creator.
