@@ -14,6 +14,9 @@ Features
         Nature Gallery - Displaying beautiful images of landscapes, mountains, forests, and other natural scenes.
         Animal Gallery - Highlighting various animals
 
+    Blog:
+    Contains articles discussing various topics related to information technology, including cybersecurity, malware, and the        role of IT in modern society.
+
     Responsive Design:
     The layout adjusts based on the screen size, ensuring a pleasant user experience on both desktop and mobile devices.
 
